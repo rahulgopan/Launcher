@@ -1,1 +1,1 @@
-w1-pamo-nehl vmcore-main 2403389 runlist
+w1-parm-wesd vsphere-2015 2983888 10thNov.rl
