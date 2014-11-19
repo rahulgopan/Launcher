@@ -1,1 +1,1 @@
-w1-parm-wesd vsphere-2015 2983888 10thNov.rl
+w1-pamo-abub vsphere-2015 2983888 runlist_all.rl
